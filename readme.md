@@ -33,7 +33,7 @@ system-resource-monitor/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/system-resource-monitor.git
+git clone https://github.com/kostubh2005/System-Resource-Monitor.git
 ```
 
 Move into the project directory:
