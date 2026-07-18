@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![psutil](https://img.shields.io/badge/psutil-System%20Monitoring-green)
+![Rich](https://img.shields.io/badge/Rich-Terminal_UI-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # System Resource Monitor
 
 A real-time terminal-based system resource monitoring application built using **Python**, **psutil**, and **Rich**.
@@ -18,6 +23,11 @@ A real-time terminal-based system resource monitoring application built using **
 - Python
 - psutil
 - Rich
+## How It Works
+
+The application uses the psutil library to collect real-time system metrics and Rich to render a live terminal dashboard.
+
+CPU and memory statistics are refreshed every 0.5 seconds while active processes are sorted by CPU usage to display the most resource-intensive tasks.
 
 ## Project Structure
 
@@ -80,3 +90,9 @@ The dashboard refreshes automatically every 0.5 seconds.
 ## License
 
 This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+
+**Kostubh Birla**
+
+GitHub: https://github.com/kostubh2005
