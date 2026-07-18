@@ -65,6 +65,9 @@ The application displays:
 - Process status
 
 The dashboard refreshes automatically every 0.5 seconds.
+## 📸 Screenshot
+
+![System Resource Monitor](screenshots/dashboard.png)
 
 ## Future Improvements
 
